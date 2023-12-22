@@ -17,7 +17,7 @@ Tecnologías utilizadas:
 
 Sigue estos pasos para instalar y ejecutar el proyecto:
 
-1. Clona el repositorio: `git clone [URL_DEL_REPOSITORIO]`
+1. Clona el repositorio: `[git clone [URL_DEL_REPOSITORIO]](https://github.com/EdixCarlos/reto21-12)`
 2. Navega al directorio del proyecto: `cd [NOMBRE_DEL_DIRECTORIO]`
 3. Construye el proyecto con Maven: `mvn clean install`
 4. Ejecuta el proyecto: `mvn spring-boot:run`
